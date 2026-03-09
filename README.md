@@ -1,20 +1,20 @@
 <img src="boopy.jpg" alt="Alt Text" width="500" height="">
 
-## Ban on Death
-- 1 month
+## Welcome to Morra Londo
 
-## SMP
-- Vanilla
-- Amplified World
-- Hard Difficulty
+## How to install and play
 
-## RULES
-- No bigotry
-- No random death matching
+1. Message Troy about server access to receive:
+    - curseforge modpack code
+    - whitelisting
 
-## Info
-- 162.196.156.45
-- CurseForge Required
+2. Download curseforge from their [website](https://www.curseforge.com/download/app).
+<img src="morralondo1.png" alt="Alt Text" width="500" height="">
 
-## Recommended Shader
-https://www.curseforge.com/minecraft/shaders/complementary-reimagined
+3. Play the modpack
+<img src="images/morralondo2.png" alt="Alt Text" width="500" height="">
+<img src="images/morralondo3.png" alt="Alt Text" width="500" height="">
+<img src="images/morralondo4.png" alt="Alt Text" width="500" height="">
+<img src="images/morralondo5.png" alt="Alt Text" width="500" height="">
+
+4. Server IP is **162.196.156.45**
