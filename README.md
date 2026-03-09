@@ -1,6 +1,5 @@
-<img src="boopy.jpg" alt="Alt Text" width="500" height="">
-
 ## Welcome to Morra Londo
+<img src="boopy.jpg" alt="Alt Text" width="500" height="">
 
 ## How to install and play
 
@@ -9,7 +8,7 @@
     - whitelisting
 
 2. Download curseforge from their [website](https://www.curseforge.com/download/app).
-<img src="morralondo1.png" alt="Alt Text" width="500" height="">
+<img src="images/morralondo1.png" alt="Alt Text" width="500" height="">
 
 3. Play the modpack
 <img src="images/morralondo2.png" alt="Alt Text" width="500" height="">
